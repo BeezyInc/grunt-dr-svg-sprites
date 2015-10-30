@@ -1,7 +1,7 @@
 {
   "name": "grunt-dr-svg-sprites-hiulit",
   "description": "Grunt plugin to create SVG sprites with PNG fallbacks at needed sizes",
-  "version": "0.9.31",
+  "version": "0.9.33",
   "homepage": "",
   "author": {
     "name": "hiulit",

@@ -10,11 +10,11 @@
 
 module.exports = function(grunt) {
 
-	var builder = require("dr-svg-sprites");
+	var builder = require("dr-svg-sprites-hiulit");
 
 	var desc = "Build SVG sprites with PNG fallbacks";
 
-	grunt.registerMultiTask("dr-svg-sprites", desc, task);
+	grunt.registerMultiTask("dr-svg-sprites-hiulit", desc, task);
 
 	grunt.registerMultiTask("svg-sprites", desc, task);
 	
