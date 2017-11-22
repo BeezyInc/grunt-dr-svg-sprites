@@ -140,6 +140,12 @@ grunt.initConfig({
 
 ## Changelog
 
+### 1.0.1
+
+Changes:
+
+* Updated dr-svg-sprites dependency.
+
 ### 0.9.30
 
 Changes:
