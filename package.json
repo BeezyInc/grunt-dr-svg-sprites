@@ -1,7 +1,7 @@
 {
   "name": "@beezyinc/grunt-dr-svg-sprites-bz",
   "description": "Grunt plugin to create SVG sprites with PNG fallbacks at needed sizes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "",
   "author": {
     "name": "Beezy Inc",
@@ -29,8 +29,8 @@
     "grunt-contrib-clean": "~0.6.0"
   },
   "dependencies": {
-    "async": "^1.4.0",
-    "@beezyinc/dr-svg-sprites-bz": "^1.0.1"
+    "@beezyinc/dr-svg-sprites-bz": "1.0.2",
+    "async": "^1.4.0"
   },
   "keywords": [
     "gruntplugin",
